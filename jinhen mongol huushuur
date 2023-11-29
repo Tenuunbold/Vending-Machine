@@ -11,3 +11,12 @@ class Jinhenmongolhuushuur:
                 print("1. Show available items")
                 print("2. Purchase an item")
                 print("3. Exit")
+            def available_items(self):
+                self.available = {
+                    '1':{'haluun khuushuur'}
+                    '2':{'circle khuushuur'}
+                    '3':{'shorvog khuushuur'}
+                }
+
+
+
