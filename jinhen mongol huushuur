@@ -1,0 +1,13 @@
+class Jinhenmongolhuushuur:
+    def_init_(self):
+        self.item = {
+            '1': {'name': 'Haluun Khuushuur', 'price': 1.00, 'quantity': 10}
+            '2': {'name': 'circle khuushuur', 'price': 2.00, 'quantity': 15}
+            '3': {'name': 'shorvog khuushuur', 'price': 3.00, 'quantity':20}
+            }
+            
+            def display_menu(self):
+                print("Welcome to jinhenmongolkhuushuur")
+                print("1. Show available items")
+                print("2. Purchase an item")
+                print("3. Exit")
